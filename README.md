@@ -57,7 +57,7 @@ This project emphasizes **Software Configuration Management** concepts, includin
 | Developer           | Yohannse Mesay    |
 | QA Tester           | Yohannse Mesay    |
 | QA Tester           | Yonatan Ashenafi  |
-| Change Manager      | Yohanna Betsihay  |
+| Change Manager      | Yohanna Betsiha  |
 
 ---
 
