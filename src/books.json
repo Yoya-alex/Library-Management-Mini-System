@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "id": "B001",
+      "title": "Introduction to Programming",
+      "author": "Author A"
+    },
+    { "id": "B002", "title": "Database Systems", "author": "Author B" },
+    { "id": "B003", "title": "Web Development Basics", "author": "Author C" }
+  ]
+}

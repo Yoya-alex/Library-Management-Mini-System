@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Library Management - Dashboard</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 20px;
+      }
+      nav {
+        background-color: #4caf50;
+        padding: 10px;
+        color: white;
+        margin-bottom: 20px;
+      }
+      nav a {
+        color: white;
+        margin-right: 15px;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      nav a:hover {
+        text-decoration: underline;
+      }
+      h2 {
+        color: #333;
+      }
+      table {
+        width: 80%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      }
+      th,
+      td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+      }
+      th {
+        background-color: #4caf50;
+        color: white;
+      }
+      tr:nth-child(even) {
+        background-color: #f2f2f2;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href="#">Dashboard</a>
+      <a href="#">Add Book</a>
+      <a href="#">Logout</a>
+    </nav>
+
+    <h2>Librarian Dashboard</h2>
+
+    <h3>Book Inventory</h3>
+    <table id="bookTable">
+      <tr>
+        <th>Book ID</th>
+        <th>Title</th>
+        <th>Author</th>
+      </tr>
+      <!-- Book data will be loaded here -->
+    </table>
+
+    <script src="app.js"></script>
+  </body>
+</html>
