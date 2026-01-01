@@ -1,0 +1,40 @@
+Release Notes — Library Management Mini System
+Release v1.0 — Initial Functional Version
+
+Release Date: 01/01/2026
+Prepared By: SCM Manager (Yonatan Alamirew)
+Related Baseline: BL1
+
+Description
+
+Release v1.0 represents the initial functional version of the Library Management Mini System. This release contains the foundational system and documentation.
+
+Included Features
+
+Librarian login page
+
+Librarian dashboard
+
+Display of book inventory
+
+JSON-based data source for books
+
+Known Limitations
+
+Login validation is minimal
+
+User interface is basic
+
+Dashboard menu and book inventory display are limited
+
+Related Baseline
+
+Baseline 1 (BL1)
+
+Approved By
+
+SCM Manager: Yonatan Alamirew
+
+Change Manager: Yohana Betisha
+
+QA Auditor: Yonatan Ashenafi / Yohanse Mesay

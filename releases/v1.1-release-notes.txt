@@ -1,0 +1,32 @@
+Description
+
+Release v1.1 includes improvements and updates implemented through approved Change Requests following the establishment of Baseline 2 (BL2). This release demonstrates the effectiveness of Change Control in the project.
+
+Implemented Change Requests
+CR ID	Description
+CR-001	Added basic login validation and confirmation message for librarian login
+CR-002	Improved dashboard layout with navigation menu and book inventory display
+CR-003	Updated app.js to dynamically load book inventory from books.json
+Updated Components
+
+login.html
+
+dashboard.html
+
+books.json
+
+app.js
+
+SCM documentation
+
+Related Baseline
+
+Baseline 2 (BL2)
+
+Approved By
+
+SCM Manager: Yonatan Alamirew
+
+Change Manager: Yohana Betisha
+
+QA Auditor: Yonatan Ashenafi / Yohanse Mesay
