@@ -3,9 +3,9 @@
     {
       "id": "B001",
       "title": "Introduction to Programming",
-      "author": "Author A"
+      "author": "John Smith"
     },
-    { "id": "B002", "title": "Database Systems", "author": "Author B" },
-    { "id": "B003", "title": "Web Development Basics", "author": "Author C" }
+    { "id": "B002", "title": "Database Systems", "author": "Jane Doe" },
+    { "id": "B003", "title": "Web Development Basics", "author": "Mark Lee" }
   ]
 }
