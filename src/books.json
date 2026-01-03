@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "id": "B001",
+      "title": "Introduction to Programming",
+      "author": "John Smith"
+    },
+    { "id": "B002", "title": "Database Systems", "author": "Jane Doe" },
+    { "id": "B003", "title": "Web Development Basics", "author": "Mark Lee" }
+  ]
+}
